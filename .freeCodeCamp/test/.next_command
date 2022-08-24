@@ -36,3 +36,21 @@ history -a
 ./questionnaire.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+ls --color=auto -l
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./questionnaire.sh ls -l
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+chmod ls -l
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+chmod +x questionnaire ls -l
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+sh ls -l
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+bash ls -l
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
