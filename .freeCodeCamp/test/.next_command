@@ -493,3 +493,9 @@ history -a
 echo $?
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./countdown.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./countdown.sh 1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
