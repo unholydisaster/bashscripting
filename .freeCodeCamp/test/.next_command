@@ -324,3 +324,13 @@ history -a
 echo $?
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+bad_command 0
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+bad_command
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+bad_command
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
