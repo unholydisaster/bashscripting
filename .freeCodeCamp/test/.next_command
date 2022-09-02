@@ -334,3 +334,100 @@ bad_command
 echo $?
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+ls --color=auto bad_command
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto bad_command
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto bad_command
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto bad_command
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+bad_command
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto bad_commadn
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto bad_command
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+las bad_command
+echo $? ls
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+bad_command
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+bad_command
+ls --color=auto echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+bad_command
+echo $?
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+help test
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+bad_command
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto bad_command
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+bad_command
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+bad_command
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+bad_command ls
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+bad_command
+ls --color=auto
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+bad_command
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+bad_command
+echo $?ls
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+bad_command ls
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
