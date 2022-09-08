@@ -554,3 +554,18 @@ history -a
 touch bingo.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+chmod +e
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+chmod --help
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+chmod +x
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+chmod +x
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+chmod +x bingo.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
