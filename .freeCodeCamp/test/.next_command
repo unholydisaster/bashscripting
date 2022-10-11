@@ -917,3 +917,11 @@ git init
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 git add .
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git commit -m "changes"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git push -u origin main
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
