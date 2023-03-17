@@ -88,3 +88,12 @@ npm install
 
 # Then open the working directory
 code .
+
+# Create a file 
+nano installer.sh
+
+# Paste the above code and change permissions to run
+chmod +x installer.sh
+
+# Run the script
+./installer.sh
