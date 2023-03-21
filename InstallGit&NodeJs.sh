@@ -88,6 +88,7 @@ npm install
 
 # Then open the working directory
 code .
+npm run dev
 
 # Create a file 
 nano installer.sh
