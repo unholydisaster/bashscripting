@@ -60,30 +60,10 @@ sudo apt install snapd
 sudo snap install --classic code
 
 # Cone an existing repository
-git clone https://github.com/unholydisaster/my-markdown
+git clone https://github.com/unholydisaster/blogapp
 
 # Navigate to working space and install dependency packages
-cd my-markdown
-npm install
-
-# Then open the working directory
-code .
-
-
-# Verify the installation version
-node --version
-
-# Instal snapd
-sudo apt install snapd
-
-# Install and download visual studio code
-sudo snap install --classic code
-
-# Cone an existing repository
-git clone https://github.com/unholydisaster/my-markdown
-
-# Navigate to working space and install dependency packages
-cd my-markdown
+cd blogapp
 npm install
 
 # Then open the working directory
