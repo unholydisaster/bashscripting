@@ -78,3 +78,4 @@ chmod +x installer.sh
 
 # Run the script
 ./installer.sh
+chatgpt: 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
